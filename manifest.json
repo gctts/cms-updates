@@ -1,31 +1,19 @@
 {
   "channel": "stable",
-  "generated_at": "2026-03-29T10:50:57Z",
+  "generated_at": "2026-03-29T11:00:46Z",
   "source_repository": "gctts/cms-enhance",
   "targets": {
     "usercustomize.so": {
       "name": "usercustomize.so",
-      "version": "35-dcc3e6e",
-      "size": 4302536,
-      "sha256": "2e3d9b20c9bfcfda0b266739148d63a4ff4a79c54159d7854548dc8ecedb6014",
+      "version": "36-e8b91a9",
+      "size": 4310728,
+      "sha256": "4d8f814133a396565da960960838db0d9a3387237b075b8ed9a214a64a15b8d9",
       "download_url": "https://raw.githubusercontent.com/gctts/cms-updates/main/usercustomize.so",
-      "updated_at": "2026-03-29T10:50:57Z",
+      "updated_at": "2026-03-29T11:00:46Z",
       "source_repository": "gctts/cms-enhance",
-      "source_commit": "dcc3e6e22ce8ecf282c9f8b1ee7a663292da413f",
-      "source_run_id": "23707359602",
-      "source_run_number": "35"
-    },
-    "usercustomize.py": {
-      "name": "usercustomize.py",
-      "version": "35-dcc3e6e",
-      "size": 383085,
-      "sha256": "697b28af7c3a700d2a55bfc8cb8eaae57107500939d0f2df3892af19c6514fc1",
-      "download_url": "https://raw.githubusercontent.com/gctts/cms-updates/main/usercustomize.py",
-      "updated_at": "2026-03-29T10:50:57Z",
-      "source_repository": "gctts/cms-enhance",
-      "source_commit": "dcc3e6e22ce8ecf282c9f8b1ee7a663292da413f",
-      "source_run_id": "23707359602",
-      "source_run_number": "35"
+      "source_commit": "e8b91a98cb5e9cf8deb4426979982bbf9b11add1",
+      "source_run_id": "23707519941",
+      "source_run_number": "36"
     }
   }
 }
